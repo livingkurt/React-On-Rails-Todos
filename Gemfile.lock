@@ -243,7 +243,7 @@ DEPENDENCIES
   dotenv-rails
   jbuilder (~> 2.7)
   listen (~> 3.3)
-  mini_racer
+  mini_racer (>= 0.2.1)
   pg
   pry
   puma (~> 5.0)
